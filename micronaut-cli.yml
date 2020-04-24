@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: lidar.jpa
+---
+testFramework: spock
+sourceLanguage: groovy
